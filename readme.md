@@ -5,6 +5,8 @@ Bonjour, Visiteur ... peut être un peu trop théatrale. bon bienvenu, je suis u
 ------------------
 ## Mon Stack Technique
 ================
+Les technologies que je sais utiliser
+
     * Git
     * HTML/CSS/Javascript
     `* Vue / Vue Native`
