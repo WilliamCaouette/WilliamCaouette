@@ -10,6 +10,8 @@ Les technologies que je sais utiliser
 `* Java`
 `* PHP`
 `* Unity`
+`* Html/Css/Js`
+`* Python`
 
 ### Bases de données
 `* MySQL`
@@ -35,3 +37,8 @@ Les technologies que je sais utiliser
 `* Adobe InDesign`
 `* Adobe Premier Pro`
 `* Adobe After Effect`
+
+### AI
+`* Pandas`
+`* TensorFlow`
+`* Ml5js`
