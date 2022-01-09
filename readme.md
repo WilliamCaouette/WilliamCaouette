@@ -4,22 +4,21 @@ Bonjour, Visiteur ... peut être un peu trop théatrale. bon bienvenu, je suis u
 
 ------------------
 ## Mon Stack Technique
-================
 Les technologies que je sais utiliser
 
-    * Git
-    * HTML/CSS/Javascript
+`* Git`
+`* HTML/CSS/Javascript`
     `* Vue / Vue Native`
     `* React`
     `* Sass`
     `* BootsTrap`
     `* Tailwind`
-    * C#
-    * Bases de données
-     `* MySQL`
-     `* PostgreSQL`
-     `* MongoDB`
-     `* Firebase`
-    * Java
-    * PHP
-    * Unity
+`* C#`
+`* Bases de données`
+    `* MySQL`
+    `* PostgreSQL`
+    `* MongoDB`
+    `* Firebase`
+`* Java`
+`* PHP`
+`* Unity`
