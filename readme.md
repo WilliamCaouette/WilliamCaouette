@@ -4,3 +4,19 @@ Bonjour, Visiteur ... peut être un peu trop théatrale. bon bienvenu, je suis u
 
 ------------------
 ## Mon Stack Technique
+    * Git
+    * HTML/CSS/Javascript
+    `* Vue / Vue Native`
+    `* React`
+    `* Sass`
+    `* BootsTrap`
+    `* Tailwind`
+    * C#
+    * Bases de données
+     `* MySQL`
+     `* PostgreSQL`
+     `* MongoDB`
+     `* Firebase`
+    * Java
+    * PHP
+    * Unity
