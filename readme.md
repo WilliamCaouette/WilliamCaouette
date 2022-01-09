@@ -23,3 +23,15 @@ Les technologies que je sais utiliser
 `* Sass`
 `* BootsTrap`
 `* Tailwind`
+
+### UI/UX
+`* Adobe XD`
+`* Figma`
+`* Sketch`
+
+### Design
+`* Adobe Photoshop`
+`* Adobe Illustrator`
+`* Adobe InDesign`
+`* Adobe Premier Pro`
+`* Adobe After Effect`
