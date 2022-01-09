@@ -17,7 +17,7 @@ Les technologies que je sais utiliser
 `* MongoDB`
 `* Firebase`
 
-### HTML/CSS/Javascript
+### Web
 `* Vue / Vue Native`
 `* React`
 `* Sass`
