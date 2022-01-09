@@ -4,7 +4,7 @@ Bonjour, Visiteur ... peut être un peu trop théatrale. bon bienvenu, je suis u
 
 ------------------
 ## Mon Stack Technique
-
+================
     * Git
     * HTML/CSS/Javascript
     `* Vue / Vue Native`
