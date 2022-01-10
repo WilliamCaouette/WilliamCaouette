@@ -20,7 +20,10 @@ Les technologies que je sais utiliser
 `* Firebase`
 
 ### Web
-`* Vue / Vue Native`
+`* Vue`
+`* Node`
+`* PHP`
+`* ES6`
 `* React`
 `* Sass`
 `* BootsTrap`
@@ -44,7 +47,7 @@ Les technologies que je sais utiliser
 `* Ml5js`
 
 ---------
-## Mes réseaux Sociaux
+## Mes Réseaux Sociaux
 [Twitter](https://twitter.com/WilliamCaouett1)
 
 [Instagram](https://www.instagram.com/williamcaoouette/)
