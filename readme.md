@@ -42,3 +42,10 @@ Les technologies que je sais utiliser
 `* Pandas`
 `* TensorFlow`
 `* Ml5js`
+---------
+## Mes réseaux Sociaux
+[Twitter](https://twitter.com/WilliamCaouett1)
+
+[Instagram](https://www.instagram.com/williamcaoouette/)
+
+[Site Internet]("")
