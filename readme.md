@@ -49,4 +49,6 @@ Les technologies que je sais utiliser
 
 [Instagram](https://www.instagram.com/williamcaoouette/)
 
+[Linkedin](https://www.linkedin.com/in/william-caouette-979725185/)
+
 [Site Internet]("")
