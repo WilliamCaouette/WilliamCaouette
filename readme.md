@@ -19,6 +19,7 @@ Les technologies que je sais utiliser
 `* Firebase`
 
 ### Web
+`* Wordpress`
 `* Vue`
 `* Node`
 `* PHP`
