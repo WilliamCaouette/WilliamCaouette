@@ -54,4 +54,4 @@ Les technologies que je sais utiliser
 
 [Linkedin](https://www.linkedin.com/in/william-caouette-979725185/)
 
-[Site Internet]("http://www.williamcaouette.tech/")
+[Site Internet](http://www.williamcaouette.tech/)
