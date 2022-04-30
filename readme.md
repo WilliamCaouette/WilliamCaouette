@@ -53,9 +53,22 @@ Les technologies que je sais utiliser
 ### Eniwan
 Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. William jouait alors de le rôle de développeur fullstack et de chargé de projet. 
 
+#### technologies
+`* PHP`
+`* Javascript ES6`
+`* MySQL`
+
 [en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
 
+<img src="http://www.williamcaouette.tech/img/eniwan.png"
+     alt="Eniwan"
+     style="float: left; margin-right: 10px;" />
 
+---------
+### REM-1
+Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. William jouait alors de le rôle de développeur fullstack et de chargé de projet. 
+
+[en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
 
 
 
