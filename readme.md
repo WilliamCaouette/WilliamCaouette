@@ -46,8 +46,9 @@ Les technologies que je sais utiliser
 ### AI
 `* Ml5js`
 `* MlAgent`
-------------------
 
+------------------
+## Quelques Projets que j'aime bien
 ---------
 ## Mes Réseaux Sociaux
 [Twitter](https://twitter.com/WilliamCaouett1)
