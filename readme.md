@@ -51,7 +51,7 @@ Les technologies que je sais utiliser
 ## Quelques Projets que j'aime bien
 ---------
 ### Eniwan
-Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. William jouait alors de le rôle de développeur fullstack et de chargé de projet. 
+Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. William jouait alors de le rôle de développeur fullstack, d'intégrateur et de chargé de projet. 
 
 #### technologies
 `* PHP`
@@ -61,14 +61,25 @@ Eniwan est un projet de réseau social pour les nomades digitales, réaliser en 
 [en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
 
 <img src="http://www.williamcaouette.tech/img/eniwan.png"
-     alt="Eniwan"
-     style="float: left; margin-right: 10px;" />
-
+     alt="Eniwan"/>
+     
 ---------
 ### REM-1
-Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. William jouait alors de le rôle de développeur fullstack et de chargé de projet. 
+REM-1 est une intelligence artificielle réaliser avec la librairie ML5js utilisant le réseau de neurone tenserflow. Ce petit robot à comme utilité de faire de la reconnaissance visuel sur les dessins que les joueurs font. Ainsi si les dessins sont assez bien réaliser avans que les mots soit découvert à la manière d'un pendu le joueur peut passer au mot suivant. William jouait alors le rôle de développeur fullstack et de charger projet.
+
+#### technologies
+`* Node JS`
+`* Express`
+`* Quickdb`
+`* Ml5js`
+`* Vue CLI`
 
 [en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
+
+<img src="http://www.williamcaouette.tech/img/rem-1%20(2).PNG"
+     alt="REM-1"/>
+artwork que j'ai moi même conçus
+
 
 
 
