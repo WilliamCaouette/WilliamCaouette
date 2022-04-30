@@ -38,6 +38,7 @@ Les technologies que je sais utiliser
 `* Socket.io`
 `* BootsTrap`
 `* Tailwind`
+`* Markdown`
 
 ### UI/UX
 `* Adobe XD`
