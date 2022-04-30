@@ -88,6 +88,29 @@ REM-1 est une intelligence artificielle réaliser avec la librairie ML5js utilis
      alt="REM-1"/>
 artwork que j'ai moi même conçus
 
+---------
+### Paf le roi
+Paf le roi est un jeu de précision créé par l'équipe du Cégep de Matane à l'intercollégial de création de jeu vidéo de Valley Field. William faisait alors partie de l'équipe de développement.
+
+#### technologies
+`* Unity3D`
+
+[en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
+
+<img src="http://www.williamcaouette.tech/img/paf-le-roi.PNG"
+     alt="Paf le roi"/>
+
+---------
+### croix de poulet
+croix de poulet est un jeu contre la montre inspirer de la légende québecoise de la croix maudite de Causapscal. William faisait alors partie de l'équipe de développement.
+
+#### technologies
+`* Unity3D`
+
+[en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
+
+<img src="http://www.williamcaouette.tech/img/paf-le-roi.PNG"
+     alt="Croix de poulet"/>
 
 
 
