@@ -59,7 +59,7 @@ Les technologies que je sais utiliser
 ## Quelques Projets que j'aime bien
 ---------
 ### Eniwan
-Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. William jouait alors de le rôle de développeur fullstack, d'intégrateur et de chargé de projet. 
+Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. Je jouais alors de le rôle de développeur fullstack, d'intégrateur et de chargé de projet. 
 
 #### technologies
 `* PHP`
@@ -73,7 +73,7 @@ Eniwan est un projet de réseau social pour les nomades digitales, réaliser en 
      
 ---------
 ### REM-1
-REM-1 est une intelligence artificielle réaliser avec la librairie ML5js utilisant le réseau de neurone tenserflow. Ce petit robot à comme utilité de faire de la reconnaissance visuel sur les dessins que les joueurs font. Ainsi si les dessins sont assez bien réaliser avans que les mots soit découvert à la manière d'un pendu le joueur peut passer au mot suivant. William jouait alors le rôle de développeur fullstack et de charger projet.
+REM-1 est une intelligence artificielle réalisée avec la librairie ML5js utilisant le réseau de neurones tenserflow. Ce petit robot a comme utilité de faire de la reconnaissance visuelle sur les dessins que les joueurs font. Ainsi, si les dessins sont assez bien réaliser avant que les mots ne soient découverts à la manière d'un pendu le joueur peut passer au mot suivant. Je jouais alors le rôle de développeur fullstack et de chargé de projet.
 
 #### technologies
 `* Node JS`
@@ -82,7 +82,7 @@ REM-1 est une intelligence artificielle réaliser avec la librairie ML5js utilis
 `* Ml5js`
 `* Vue CLI`
 
-[en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
+[en savoir plus](https://github.com/WilliamCaouette/efc_devw)
 
 <img src="http://www.williamcaouette.tech/img/rem-1%20(2).PNG"
      alt="REM-1"/>
@@ -90,24 +90,24 @@ artwork que j'ai moi même conçus
 
 ---------
 ### Paf le roi
-Paf le roi est un jeu de précision créé par l'équipe du Cégep de Matane à l'intercollégial de création de jeu vidéo de Valley Field. William faisait alors partie de l'équipe de développement.
+Paf le roi est un jeu de précision créé par l'équipe du Cégep de Matane à l'intercollégial de création de jeu vidéo de ValleyField. Je faisais alors partie de l'équipe de développement.
 
 #### technologies
 `* Unity3D`
 
-[en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
+[en savoir plus](https://github.com/Mdaiglevigneault/PAF-LE-ROI)
 
 <img src="http://www.williamcaouette.tech/img/paf-le-roi.PNG"
      alt="Paf le roi"/>
 
 ---------
 ### croix de poulet
-croix de poulet est un jeu contre la montre inspirer de la légende québecoise de la croix maudite de Causapscal. William faisait alors partie de l'équipe de développement.
+Croix de poulet est un jeu contre la montre inspiré de la légende québécoise de la croix maudite de Causapscal. Je faisais alors partie de l'équipe de développement.
 
 #### technologies
 `* Unity3D`
 
-[en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
+[en savoir plus](https://www.youtube.com/watch?v=AZHeijp8AVs&ab_channel=samwil0)
 
 <img src="http://www.williamcaouette.tech/img/croix%20de%20poulet.PNG"
      alt="Croix de poulet"/>
