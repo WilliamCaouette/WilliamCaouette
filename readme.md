@@ -46,6 +46,7 @@ Les technologies que je sais utiliser
 ### AI
 `* Ml5js`
 `* MlAgent`
+------------------
 
 ---------
 ## Mes Réseaux Sociaux
