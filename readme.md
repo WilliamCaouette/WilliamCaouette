@@ -109,7 +109,7 @@ croix de poulet est un jeu contre la montre inspirer de la légende québecoise 
 
 [en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
 
-<img src="http://www.williamcaouette.tech/img/paf-le-roi.PNG"
+<img src="http://www.williamcaouette.tech/img/croix%20de%20poulet.PNG"
      alt="Croix de poulet"/>
 
 
