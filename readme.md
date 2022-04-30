@@ -50,8 +50,10 @@ Les technologies que je sais utiliser
 ------------------
 ## Quelques Projets que j'aime bien
 ---------
-[###Eniwan](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
-Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. William jouait alors de le rôle de développeur fullstack et de chargé de projet.
+###Eniwan
+Eniwan est un projet de réseau social pour les nomades digitales, réaliser en fin de première année. William jouait alors de le rôle de développeur fullstack et de chargé de projet. 
+
+[en savoir plus](https://github.com/WilliamCaouette/efc-projet-multimedia-1)
 
 
 
