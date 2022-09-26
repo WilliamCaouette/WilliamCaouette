@@ -12,6 +12,7 @@ Les technologies que je sais utiliser
 `* PHP`
 `* Unity`
 `* Html/Css/Js`
+`* Python`
 
 ### Bases de données
 `* MySQL`
@@ -48,6 +49,7 @@ Les technologies que je sais utiliser
 ### AI
 `* Ml5js`
 `* MlAgent`
+`* OpenCV`
 
 ------------------
 ## Quelques Projets que j'aime bien
