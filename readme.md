@@ -1,6 +1,6 @@
-# Bienvenu
+# Bienvenue
 
-Bienvenu, je suis un étudiant en intégration multimédia bien qu'autrefois étudiant en informatique. Je suis plutôt orienté vers le web. J'apprends en bonne partie en autodidacte ce qui fait de moi quelqu'un de plutôt polyvalent et débrouillard. Je sais programmer dans de nombreux langages de programmation et je sais utiliser plusieurs technologies reliées au domaine de la programmation. Si mon profil vous intéresse, n'hésitez pas à me contacter que ce soit sur mes réseaux sociaux ou via mon site internet.
+Bienvenue, je suis un étudiant en intégration multimédia bien qu'autrefois étudiant en informatique. Je suis plutôt orienté vers le web. J'apprends en bonne partie en autodidacte ce qui fait de moi quelqu'un de plutôt polyvalent et débrouillard. Je sais programmer dans de nombreux langages de programmation et je sais utiliser plusieurs technologies reliées au domaine de la programmation. Si mon profil vous intéresse, n'hésitez pas à me contacter que ce soit sur mes réseaux sociaux ou via mon site internet.
 
 ------------------
 ## Mon Stack Technique
