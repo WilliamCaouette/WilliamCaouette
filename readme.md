@@ -1,6 +1,8 @@
 # Bienvenue
 
-Bienvenue, je suis un étudiant en intégration multimédia bien qu'autrefois étudiant en informatique. Je suis plutôt orienté vers le web. J'apprends en bonne partie en autodidacte ce qui fait de moi quelqu'un de plutôt polyvalent et débrouillard. Je sais programmer dans de nombreux langages de programmation et je sais utiliser plusieurs technologies reliées au domaine de la programmation. Si mon profil vous intéresse, n'hésitez pas à me contacter que ce soit sur mes réseaux sociaux ou via mon site internet.
+En tant que développeur junior, je suis toujours à la recherche de nouveaux défis et opportunités pour développer mes compétences et mes connaissances. Ayant suivi partiellement une formation en informatique et étant à la veille de l'obtension de mon diplôme en intégration multimédia, je suis confiant dans ma capacité à créer des sites web conviviaux et visuellement attrayants. J'ai de l'expérience dans l'utilisation de différents langages de programmation, notamment Python, JavaScript, PHP et C#. Vous pouvez consulter la liste complète sur mon profil Github. Une de mes plus grandes fiertés est d'avoir su m'investir dans divers projets professionnels que ce soit via des stages ou des emplois étudiants en parallèle de mes études. J'ai donc pu travailler pour différentes organisation de milieu différents en tant que développeur, animateur 2D ou encore éditeur vidéo. Pendant mon temps libre, j'aime rester à jour sur les dernières tendances et technologies de développement. Je suis toujours à la recherche de moyens d'améliorer mes compétences et de rester en avance sur la courbe dans ce domaine en évolution rapide.
+
+Je vous remercie d'avoir pris le temps d'en savoir plus sur moi. J'espère avoir l'opportunité de mettre mes compétences et ma passion au service de votre projet. Si mon profil vous intéresse de quelque manière que ce soit, n'hésitez pas à consulter mon CV ci-dessous ou à me contacter via le formulaire de la page contact.
 
 ------------------
 ## Mon Stack Technique
@@ -117,4 +119,4 @@ Croix de poulet est un jeu contre la montre inspiré de la légende québécoise
 
 [Linkedin](https://www.linkedin.com/in/william-caouette-979725185/)
 
-[Site Internet]()
+[Site Internet](https://williamcaouette.ca/)
